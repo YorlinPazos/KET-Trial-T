@@ -1,0 +1,61 @@
+/* En tu-proyecto/src/components/LoginPage.module.css */
+.formContainer {
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    background-color: rgba(var(--background-end-rgb), 1);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: #000;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #000;
+  }
+  
+  .formLabel {
+    display: block;
+    margin-bottom: 10px;
+    color: #000;
+  }
+  
+  .formInput {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .formButton {
+    background-color: #0070f3;
+    color: #000;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .formButton:disabled {
+    background-color: #b3b3b3;
+    cursor: not-allowed;
+  }
+  
+  .bottomText {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #000;
+  }
+  
+  .bottomText a {
+    color: #0070f3;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .bottomText a:hover {
+    text-decoration: underline;
+  }
+  

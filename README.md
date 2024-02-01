@@ -2,12 +2,12 @@ Hola, soy Yorlin David Pazos Vides! a continuación te mostraré cómo configura
 
 puedes hacer fork al repositorio, para tener una copia en tu Github, y luego clonarlo, o directamente clonar el repositorio en tu máquina local.
  
-Una vez clonado el repositorio, te ubicas en la carpeta principal del mismo, y debes desplazarte a "api" o "my-next-app" según indique cada caso.
+Una vez clonado el repositorio, te ubicas en la carpeta principal del mismo, y debes desplazarte a "api" o "client" según indique cada caso.
 
-- Haz > npm i < en la carpeta "api" asi como también otro > npm i < en la carpeta "my-next-app". esto asegurará qué se instalen las dependencias necesarias
+- Haz > npm i < en la carpeta "api" asi como también otro > npm i < en la carpeta "client". esto asegurará qué se instalen las dependencias necesarias
 
 
-- para este proyecto usé NodeJs, Express, Axios, Morgan, Nodemon, Cors, Sequelize como ORM, y PostgreSQL como gestor de base de datos. debes crear un archivo ".env" en la carpeta "api".
+- para este proyecto usé NodeJs, Express, Axios, Morgan, Nodemon, Cors, Sequelize como ORM, y PostgreSQL como gestor de base de datos, para el front usé nextjs, redux, react-youtube,HTML,CSS entre otras cosas. debes crear un archivo ".env" en la carpeta "api".
 Dentro de la misma deben ir tus credenciales para acceder a la base de datos. Las cuales son: 
 
 

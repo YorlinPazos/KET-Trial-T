@@ -62,7 +62,7 @@ puede que algunas dependencias demoren en instalarse porque la app es algo robus
 
 
 
-quedo a deber en estilos, quizá con algunas horas mas(solo tuve 16 para entregar la prueba) podria haberlo dejado bonito, sin embargo estoy bastante conforme con el correcto funcionamiento, más allá de lo esético.
+quedo a deber en estilos, quizá con algunas horas mas(tuve 16 para entregar la prueba) podria haberlo dejado bonito, sin embargo estoy bastante conforme con el correcto funcionamiento, más allá de lo esético.
 
 Cualquier duda pueden escribirme al correo electrónico: nilroysozpa123@gmail.com
 Buena suerte!
